@@ -1,0 +1,140 @@
+    1  cd
+    2  man
+    3  man ls
+    4  bush
+    5  cd
+    6  help cd/
+    7  help cd
+    8  ls
+    9  cls
+   10  clear
+   11  cd C:\users
+   12  cd decktop
+   13  cd decktop
+   14  ls
+   15  clear
+   16  cd C:\Users\YourUsername\ProgramFiles\Git
+   17  cd: C:\Program Files\Git
+   18  ls
+   19  cd decktop
+   20  cd users
+   21  cd C:\Program Files\Git
+   22  cd decktop
+   23  cd samsung
+   24  cd C:\Users\YourUsername\ProgramFiles\Git\HW_10
+   25  cd /C/Users/YourUsername/ProgramFiles/Git/HW_10
+   26  samsung@DESKTOP-SPCQE37 MINGW64 /c/users/samsung
+   27  $
+   28  cd /c/Users/YourUsername/ProgramFiles/Git/HW_10
+   29  clear
+   30  cd /c/Users/YourUsername/ProgramFiles/Git/HW_10
+   31  cd /c/Users/YourUsername/ProgramFiles/Git/HW_10/
+   32  cd /c/Users/Sansung/ProgramFiles/Git/HWw_10/
+   33  cd /c/ProgramFiles/Git/HW_10
+   34  cd /c/'Program Files'/Git/HW_10
+   35  -c && rm ~/.bash_history
+   36  git config --global user.name " Natali S"
+   37  git config --global user.email "2201693kns@gmail.com"
+   38  git config --global --list
+   39  cd/c/'Program Files'/Git/HW_10
+   40  git clone <https://github.com/Natali1988r/HW_10.git>
+   41  git clone <https://github.com/Natali1988r/HW_10.git>
+   42  git clone <git@github.com:Natali1988r/HW_10.git>
+   43  $ git clone git@github.com:Natali1988r/HW_10.git
+   44  $
+   45  git clone git@github.com:Natali1988r/HW_10.git
+   46  icacls "с/'Program Files'/Git/HW_10" /grant your_Natali S:(OI)(CI)F
+   47  icacls "с/'Program Files'/Git/HW_10" /grant your_'Natali S':(OI)(CI)F
+   48  icacls "C:\Program Files\Git\HW_10" /grant "Natali S":(OI)(CI)F
+   49  icacls "C:\Program Files\Git\HW_10" /grant "Natali S":(OI)(CI)F
+   50  icacls "C:/Program Files/Git/HW_10" /grant "Natali S":(OI)(CI)F
+   51  cd /c/'Program Files'/Git/HW_10
+   52  git clone git@github.com:Natali1988r/HW_10.git
+   53  ls -al ~/.ssh
+   54  ssh-keygen -t ed25519 -C "2201693kns@gmail.com"
+   55  cat ~/.ssh/id_ed25519.pub
+   56  ssh -T git@github.com
+   57  git clone git@github.com:Natali1988r/HW_10.git
+   58  git clone https://github.com/Natali1988r/HW_10.git
+   59  cd HW_10
+   60  touch text_ignore.txt
+   61  git commit -m "Add text_ignore.txt"
+   62  git add text_ignore.txt
+   63  git commit -m "Add text_ignore.txt"
+   64  git status
+   65  git add
+   66  git add .
+   67  main_test.txt
+   68  touch main_test.txt
+   69  ls
+   70  git add
+   71  git add.
+   72  git add .
+   73  git push origin main
+   74  git log
+   75  ls
+   76  clear
+   77  cd /c/Program Files/Git/HW_10
+   78  cd "/c/Program Files/Git/HW_10"
+   79  cd "/c/Program Files/Git/HW_10"
+   80  gitlog
+   81  git log
+   82  clear
+   83  cd /c/'Program Files'/Git/HW_10
+   84  git log -n<3>
+   85  git log -n <3>
+   86  git log -n 3
+   87  ls -a
+   88  git init
+   89  cd /c/'Program Files'/Git/HW_10
+   90  git log --oneline
+   91  ls -a
+   92  clear
+   93  cd /c/'Program Files'/Git/HW_10
+   94  clear
+   95  cd /c/HW_10
+   96  -c && rm ~/.bash_history
+   97  git config --global user.name "Natali"
+   98  git config --global user.email "2201693kns@gmail.com"
+   99  git config --global --list
+  100  git clone https://github.com/Natali1988r/HW_10.git
+  101  cd HW_10
+  102  cd HW_10
+  103  touch text_ignore.txt
+  104  ls
+  105  nano .gitignore
+  106  git status
+  107  git add .gitignore
+  108  git commit -m "done text_ignore.txt до .gitignore"
+  109  git push origin main
+  110  touch main_test.txt
+  111  ls
+  112  git add
+  113  git add main_test.txt
+  114  git status
+  115  git commit -m "done main_test.txt"
+  116  git log --oneline
+  117  git push origin main
+  118  git branch develop
+  119  git checkout develop
+  120  touch develop_test.txt
+  121  git add .
+  122  git commit -m "New develop_test.txt file"
+  123  echo "Smile. Is the first step to success" >> develop_test.txt
+  124  git status
+  125  git add develop_test.txt
+  126  git status
+  127  git commit -m "New to develop_test.txt"
+  128  git status
+  129  git add
+  130  git add .
+  131  git commit -m "done a new line"
+  132  git push origin develop
+  133  git checkout main
+  134  git merge develop
+  135  git log
+  136  git add .
+  137  git commit -m "United branches"
+  138  git push
+  139  git log
+  140  history > command_list.csv
